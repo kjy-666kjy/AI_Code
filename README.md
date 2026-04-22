@@ -1,4 +1,4 @@
 # AI_Code
 add skill and agent
 
-add
+all skills and instrutions for me
